@@ -1,0 +1,11 @@
+D:\lab works\vb .net programs\avg and sum (array)\avg and sum (array)\bin\Debug\avg and sum (array).exe
+D:\lab works\vb .net programs\avg and sum (array)\avg and sum (array)\bin\Debug\avg and sum (array).pdb
+D:\lab works\vb .net programs\avg and sum (array)\avg and sum (array)\bin\Debug\avg and sum (array).xml
+D:\lab works\vb .net programs\avg and sum (array)\avg and sum (array)\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\lab works\vb .net programs\avg and sum (array)\avg and sum (array)\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\lab works\vb .net programs\avg and sum (array)\avg and sum (array)\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\lab works\vb .net programs\avg and sum (array)\avg and sum (array)\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\lab works\vb .net programs\avg and sum (array)\avg and sum (array)\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\lab works\vb .net programs\avg and sum (array)\avg and sum (array)\obj\x86\Debug\avg and sum (array).exe
+D:\lab works\vb .net programs\avg and sum (array)\avg and sum (array)\obj\x86\Debug\avg and sum (array).xml
+D:\lab works\vb .net programs\avg and sum (array)\avg and sum (array)\obj\x86\Debug\avg and sum (array).pdb
