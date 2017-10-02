@@ -1,0 +1,14 @@
+C:\Users\Home\AppData\Local\Temporary Projects\add two matrix\bin\Debug\add two matrix.exe
+C:\Users\Home\AppData\Local\Temporary Projects\add two matrix\bin\Debug\add two matrix.pdb
+C:\Users\Home\AppData\Local\Temporary Projects\add two matrix\bin\Debug\add two matrix.xml
+C:\Users\Home\AppData\Local\Temporary Projects\add two matrix\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Home\AppData\Local\Temporary Projects\add two matrix\obj\x86\Debug\add_two_matrix.Form1.resources
+C:\Users\Home\AppData\Local\Temporary Projects\add two matrix\obj\x86\Debug\add_two_matrix.Resources.resources
+C:\Users\Home\AppData\Local\Temporary Projects\add two matrix\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Home\AppData\Local\Temporary Projects\add two matrix\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Home\AppData\Local\Temporary Projects\add two matrix\obj\x86\Debug\add two matrix.exe
+C:\Users\Home\AppData\Local\Temporary Projects\add two matrix\obj\x86\Debug\add two matrix.xml
+C:\Users\Home\AppData\Local\Temporary Projects\add two matrix\obj\x86\Debug\add two matrix.pdb
+D:\lab works\vb .net programs\add two matrix\add two matrix\obj\x86\Debug\add two matrix.exe
+D:\lab works\vb .net programs\add two matrix\add two matrix\obj\x86\Debug\add two matrix.xml
+D:\lab works\vb .net programs\add two matrix\add two matrix\obj\x86\Debug\add two matrix.pdb
