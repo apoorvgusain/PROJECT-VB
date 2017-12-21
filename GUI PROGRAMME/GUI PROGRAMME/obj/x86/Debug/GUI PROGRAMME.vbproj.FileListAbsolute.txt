@@ -1,0 +1,22 @@
+C:\Users\Apoorv Gusain\AppData\Local\Temporary Projects\GUI PROGRAMME\obj\x86\Debug\GUI_PROGRAMME.Form1.resources
+C:\Users\Apoorv Gusain\AppData\Local\Temporary Projects\GUI PROGRAMME\obj\x86\Debug\GUI_PROGRAMME.Resources.resources
+C:\Users\Apoorv Gusain\AppData\Local\Temporary Projects\GUI PROGRAMME\obj\x86\Debug\GUI PROGRAMME.vbproj.GenerateResource.Cache
+C:\Users\Apoorv Gusain\AppData\Local\Temporary Projects\GUI PROGRAMME\bin\Debug\GUI PROGRAMME.exe
+C:\Users\Apoorv Gusain\AppData\Local\Temporary Projects\GUI PROGRAMME\bin\Debug\GUI PROGRAMME.pdb
+C:\Users\Apoorv Gusain\AppData\Local\Temporary Projects\GUI PROGRAMME\bin\Debug\GUI PROGRAMME.xml
+C:\Users\Apoorv Gusain\AppData\Local\Temporary Projects\GUI PROGRAMME\obj\x86\Debug\GUI_PROGRAMME.Form2.resources
+C:\Users\Apoorv Gusain\AppData\Local\Temporary Projects\GUI PROGRAMME\obj\x86\Debug\GUI_PROGRAMME.Form3.resources
+C:\Users\Apoorv Gusain\AppData\Local\Temporary Projects\GUI PROGRAMME\obj\x86\Debug\GUI PROGRAMME.exe
+C:\Users\Apoorv Gusain\AppData\Local\Temporary Projects\GUI PROGRAMME\obj\x86\Debug\GUI PROGRAMME.xml
+C:\Users\Apoorv Gusain\AppData\Local\Temporary Projects\GUI PROGRAMME\obj\x86\Debug\GUI PROGRAMME.pdb
+D:\lab works\vb .net programs\GUI PROGRAMME\GUI PROGRAMME\obj\x86\Debug\GUI PROGRAMME.exe
+D:\lab works\vb .net programs\GUI PROGRAMME\GUI PROGRAMME\obj\x86\Debug\GUI PROGRAMME.xml
+D:\lab works\vb .net programs\GUI PROGRAMME\GUI PROGRAMME\obj\x86\Debug\GUI PROGRAMME.pdb
+D:\lab works\vb .net programs\GUI PROGRAMME\GUI PROGRAMME\bin\Debug\GUI PROGRAMME.exe
+D:\lab works\vb .net programs\GUI PROGRAMME\GUI PROGRAMME\bin\Debug\GUI PROGRAMME.pdb
+D:\lab works\vb .net programs\GUI PROGRAMME\GUI PROGRAMME\bin\Debug\GUI PROGRAMME.xml
+D:\lab works\vb .net programs\GUI PROGRAMME\GUI PROGRAMME\obj\x86\Debug\GUI_PROGRAMME.Form1.resources
+D:\lab works\vb .net programs\GUI PROGRAMME\GUI PROGRAMME\obj\x86\Debug\GUI_PROGRAMME.Form2.resources
+D:\lab works\vb .net programs\GUI PROGRAMME\GUI PROGRAMME\obj\x86\Debug\GUI_PROGRAMME.Form3.resources
+D:\lab works\vb .net programs\GUI PROGRAMME\GUI PROGRAMME\obj\x86\Debug\GUI_PROGRAMME.Resources.resources
+D:\lab works\vb .net programs\GUI PROGRAMME\GUI PROGRAMME\obj\x86\Debug\GUI PROGRAMME.vbproj.GenerateResource.Cache
